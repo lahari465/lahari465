@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+
 # 💫 About Me:
 🔭Building system-based projects from my own ideas<br>🤝 I’m looking for help with Structuring and scaling project ideas<br>🌱 I’m currently learning Core CS concepts through hands-on building<br>👯 Open to collaborate on Innovative, idea-driven projects
 
@@ -17,12 +18,17 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=lahari465&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### ✍️ Random Dev Quote
+<!--![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
+> "A language is a tool in the hands of a skilled creator"
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=lahari465&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lahari465&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
