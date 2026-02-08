@@ -20,7 +20,7 @@
 
 ### ✍️ Random Dev Quote
 <!--![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-> *A language is a tool in the hands of a skilled creator*
+> **A language is a tool in the hands of a skilled creator**
 
 
 
