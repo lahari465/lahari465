@@ -15,12 +15,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=lahari465&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lahari465&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=lahari465&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 <!--![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-> **A language is a tool in the hands of a skilled creator**
+> "I would tell you a joke about UDP, but you probably wouldn't get it."
 
 
 
