@@ -2,9 +2,7 @@
 
 ## 🚀 About Me
 
-I am a passionate **Java & Full-Stack Developer** who enjoys building backend applications, full-stack systems, and AI-powered solutions. I love working with **Java, Spring Boot, databases, and modern web technologies**, while exploring how AI can be integrated into real-world applications.
-
-💡 I enjoy turning ideas into working projects, solving programming problems, and continuously improving my software engineering skills.
+I am a passionate Computer Science student who loves exploring technology and building software solutions. I enjoy working across full-stack development and AI, experimenting with new technologies, and continuously improving my software engineering skills.
 
 - 🎓 **B.Tech in Computer Science & Engineering**
 - ☕ **Java & Spring Boot Enthusiast**
